@@ -1,7 +1,7 @@
 {
     "name": "Socket.IO chat server on Heroku",
     "description": "A barebones Node.js app using Express and Socket.IO",
-    "repository": "https://github.com/neidenmark/chat-client-lwc/chat-server-heroku",
+    "repository": "https://github.com/neidenmark/salesforce-webchat-heroku-server",
     "logo": "https://node-js-sample.herokuapp.com/node.png",
     "keywords": ["node", "express", "socket.io", "salesforce"]
   }
